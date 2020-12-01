@@ -1,4 +1,4 @@
-# R
+# R ; Exercises from - w3Resource
  R is free software developed by Ross Ihaka and Robert Gentleman in 1993. 
  R is a language and environment for statistical computing and graphics. 
  R possesses an extensive catalog of statistical and graphical methods. 
